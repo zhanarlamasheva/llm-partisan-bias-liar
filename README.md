@@ -57,9 +57,7 @@ The LIAR dataset (Wang, 2017) is downloaded automatically from the authors' webs
 If you use this code, please cite the paper:
 
 ```
-[Authors] (2026). Counterfactual audit of partisan bias in LLM-based fact-checking.
-Herald of the Kazakh-British Technical University. [volume(issue), pages, DOI]
-```
+
 
 ## License
 
